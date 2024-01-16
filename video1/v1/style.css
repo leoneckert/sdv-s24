@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+
+}
+.main{
+    width:100%;
+    background-color: aqua;
+    min-height: 100px;
+}
+
+.bar{
+    width: 10px;
+    height: 14px;
+    outline: black solid 1px;
+    /* first top to bottom layout, then this: */
+    /* display: inline-block; */
+    margin-top: 5px;
+    background-color: black;
+    
+}
+
+.label{
+    font-family: sans-serif;
+    color: white;
+    font-size: 12px;
+}
