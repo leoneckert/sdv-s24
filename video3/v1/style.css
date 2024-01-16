@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+}
+#viz{
+    border: 1px black solid;
+    background-color: lightblue;
+}
+  
+.label{
+    font-family: sans-serif;
+    font-size: 12px;
+}
