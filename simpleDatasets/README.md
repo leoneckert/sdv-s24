@@ -21,4 +21,4 @@ I downloaded the below datasets and formated them myself, for you, so that we ha
     - cleaned [dataset](datasets/whc-sites(tangibles)-2021.json)
 
 
-You can download them all as a zip file, too. 
+You can download them all as a [zip file](datasets.zip), too. 
