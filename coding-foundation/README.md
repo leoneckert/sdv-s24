@@ -2,23 +2,23 @@ If things are unclear, please contact me on Slack or e-mail me at [leon.eckert@
 
 Setup
 
-- [Github]()
+- [Github](#github)
     - Make a GitHub account
     - Create your own repository for this semester ("fork" one I prepared for you)
-    - [Bring a website live on the web]() (using "Github Pages")
-- [Software]()
+    - Bring a website live on the web (using "Github Pages")
+- [Software](#software)
     - Google Chrome
     - GitHub Desktop
     - VS Code
-- [Working Environment]()
+- [Working Environment](#working-environment--working-on-projects)
     - Clone your remote repository using VS Code
     - Working on Projects
         - Open you files in VS Code
-        - [Using Live Server]()
-        - [Push changes to your remote GitHub repository]()
-- [Coding Exercise]()
-    - exercise
-    - [submit your work]()
+        - [Using Live Server](#using-live-server)
+        - [Push changes to your remote GitHub repository](#pushing-changes-to-your-remote-github-repository)
+- [Coding Exercise](#coding-exercise)
+    - [exercise](#coding-exercise)
+    - [submit your work](#push-it-all-to-your-github)
 
 
 
@@ -28,11 +28,9 @@ All the work we do this semester is in the form of **websites**. We build a lot 
 
 ## GitHub
 
-This semester you will be maintaining your own Github **repository** to backup and share your work. You will have one folder in which all the work regarding this class will take place. Your **repository** ("repo") then can be thought of as an online backup copy of that local ("on your computer") project folder. The idea is this:
+This semester you will be maintaining your own Github **repository** to backup and share your work. You will have one folder in which all the work regarding this class will take place. Your **repository** ("repo") then can be thought of as an online backup copy of that local ("on your computer") project folder. 
 
-[DRAWING]
-
-Above you see:
+Our Resources:
 
 1. The **Class Website** where almost everything you need to know is shared (schedule, assignments, ...). In our case this is NYU's Brightspace. 
 2. The **Class code repository**. My page on GitHub. I will share code there that we work on in class. And you will submit links to your own assignment work through this repository. More on that later!
@@ -153,7 +151,7 @@ Reopen VS Code, it should be empty. If it's not, close the tabs you see. Opening
 ![vsc2](assets/vsc2.png)
 
 
-**Using Live Server**
+#### **Using Live Server**
 
 From now on you will always use the Live Server extension we installed before. Activate it by clicking “Go Live” in the bottom right corner of VS Code.
 
