@@ -50,7 +50,7 @@ You can create as many repositories as you like. They are public by default, eve
 
 You will find a big PLUS symbol (don't click it just yet 🚨 ) on the top menu bar when you are logged into GitHub. This is where you create new repositories. Hold on though, don't click it 🤣 because you will create the repository for this class differently. Why? Because I have prepared some files for you.
 
-You will "fork" (make a copy) of a repository I have prepared. Open this link in a new tab: https://github.com/leoneckert/cdv-student. Click on "fork" in the top right corner:
+You will "fork" (make a copy) of a repository I have prepared. Open this link in a new tab: https://github.com/leoneckert/sdv-student. Click on "fork" in the top right corner:
 
 ![fork1](assets/fork1.png)
 
