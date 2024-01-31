@@ -113,7 +113,7 @@ long().chains().of().various().methods().seperated().by().dots();
 ### Download working files
 The files are in the folder of this repo. You can download them [here](d3intro.zip).
 
-In addition, please fill out the Lab2 Cheatsheet I prepared for you. It will help you memorize the most important bits. 
+In addition, please fill out the Lab2 [Cheatsheet](lab2-CheatSheet.pdf) I prepared for you. It will help you memorize the most important bits. 
 
 This lesson exists in video form (shared with you seperately). I HIGHLY recommend watching the videos at least once before moving to text. If you are learning in an in-person setting, I attempt to run through all this during class time. 
 
@@ -395,7 +395,7 @@ viz.selectAll("circle").data(myData).enter().append("circle")
 ;
 ```
 
-(if you need a refresher on callback functions, these [slides](https://docs.google.com/presentation/d/1eb8tH910pCqHuKNqhf897aTDJHy67XQ9yuYpjcXs3mw/edit?usp=sharing) (slide 59-78) might help)
+(if you need a refresher on callback functions, these [slides](https://docs.google.com/presentation/d/1j6W-EnwR8G8GLr9smPbeNtlLKommera_uBPbSZHfwN4/edit?usp=sharing) (slide 61-81) might help)
 
 Consider this. Now we made a function that just console.logs whatever D3 passes it when it calls it. ...to keep things as they were, we stick to returning a random value, too, for the circle's position.
 
