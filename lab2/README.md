@@ -424,6 +424,8 @@ Note, I also changed the radius of the circles to ``10``. And this is how it loo
 
 ![viz](assets/viz.jpg)
 
+> **Note 📝: In your Cheatsheet, annotate the next code snippet. Highlight the data function in both code block, write out what the console.log exactly logs, and describe why the data function runs mulitple times.**
+
 ### Part 4: Real Data
 #### loading data in D3
 
