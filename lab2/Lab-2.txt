@@ -1,0 +1,169 @@
+Storytelling with Data Visualization
+Leon Eckert
+Lab2 - Welcome to D3js
+
+
+Part 1: The Start
+	Exercise
+Part 2: The Central Point
+	Exercise
+Part 3: Wooow, the data impacts the shapes
+	Exercise
+Part 4: Real Data
+	Exercise
+
+
+	
+Storytelling with Data Visualization
+Leon Eckert
+Lab2 - Welcome to D3js
+
+
+PART 1: "The Start"
+
+	import the library
+	selections
+	methods / append
+	attributes
+	what is returned?
+	shapes
+
+
+
+
+
+
+
+
+
+Storytelling with Data Visualization
+Leon Eckert
+Lab2 - Welcome to D3js
+
+
+Exercise
+- use various shapes 
+- play with attributes
+
+shapes and attributes they need: 
+rect  		x, y, width, height
+circle	  	cx, cy, r
+ellipse  	cx, cy, rx, ry
+line 		x1, x2, y1, y2  other attributes: 
+fill & stroke (both for colors)
+stroke-width
+
+
+
+
+
+
+
+
+Storytelling with Data Visualization
+Leon Eckert
+Lab2 - Welcome to D3js
+
+
+PART 2: "The Central Point"
+
+	binding data to elements
+	"select nothing?!"
+	enter-selection
+	
+
+
+
+
+Storytelling with Data Visualization
+Leon Eckert
+Lab2 - Welcome to D3js
+
+
+Exercise:
+
+
+- experiment by changing the data
+- try to bind various shapes to data
+
+
+
+
+
+
+
+
+
+
+
+Storytelling with Data Visualization
+Leon Eckert
+Lab2 - Welcome to D3js
+
+
+PART 3: "Wooow, the data impacts the shapes"
+
+	data functions
+	
+
+
+
+
+
+
+Storytelling with Data Visualization
+Leon Eckert
+Lab2 - Welcome to D3js
+
+
+
+Exercise:
+
+
+- use data functions to change multiple attributes
+- experiment with different shapes
+
+
+
+
+
+
+
+
+
+
+Storytelling with Data Visualization
+Leon Eckert
+Lab2 - Welcome to D3js
+
+
+PART 4: "Real Data"
+
+	loading data in D3
+
+
+
+
+
+
+
+Storytelling with Data Visualization
+Leon Eckert
+Lab2 - Welcome to D3js
+
+
+Exercise:
+
+- apply techniques covered today to the real data
+
+
+
+
+
+
+
+
+
+
+
+The END
