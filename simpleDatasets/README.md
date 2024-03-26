@@ -19,6 +19,7 @@ I downloaded the below datasets and formated them myself, for you, so that we ha
 - Unesco heritage sites ([source](https://www.kaggle.com/datasets/ramjasmaurya/unesco-heritage-sites2021
 ))
     - cleaned [dataset](datasets/whc-sites(tangibles)-2021.json)
-
+- The World's Highest Buildings
+    - [clean data](datasets/buildings.json)
 
 You can download them all as a [zip file](datasets.zip), too. 

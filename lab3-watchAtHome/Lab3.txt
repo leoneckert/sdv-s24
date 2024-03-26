@@ -1,0 +1,11 @@
+Content
+
+LAB 3
+
+* Enter-, Update-, Exit-Selections (illustrated)
+* coding
+	* classes
+	* data groups
+* throughout: good habits when working with D3
+
+* use the CheatSheet for Lab 3. 
