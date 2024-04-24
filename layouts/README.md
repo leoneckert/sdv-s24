@@ -3,7 +3,7 @@
 You can use the layouts in the folder as starting points and as components of your final project. **Important: make the design your own, how can the design make your project more engaging?**
 
 * You can see the Code for the layouts online [here](https://github.com/leoneckert/sdv-s24/tree/main/layouts).
-* Download all examples [here]()
+* Download all examples [here](https://github.com/leoneckert/sdv-s24/raw/main/layouts/sdv-layouts.zip)
 
 #### Basic ([Live](https://leoneckert.github.io/sdv-s24/layouts/basic))
 * centered
