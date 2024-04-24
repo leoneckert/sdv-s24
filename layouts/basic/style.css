@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+.mainContainer{
+    width:100%;
+    max-width: 900px;
+    outline: 1px solid black;
+    margin: auto;
+
+}
+
+.heading{
+    text-align: center;
+    background-color: beige;
+}
+
+.articleWrapper{
+    width:100%;
+    max-width: 550px;
+    outline: 1px solid black;
+    margin: auto;
+    padding: 0 5px;
+    box-sizing: border-box;
+}
+
+.imageBox img{
+    width: 100%;
+}
+.imageBox .caption{
+    font-size: 0.8em;
+    margin:0;
+}
