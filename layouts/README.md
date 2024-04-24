@@ -32,3 +32,8 @@ You can use the layouts in the folder as starting points and as components of yo
 * like above, but each text triggers transitions in the graph
 
 ![basic large graph](assets/5.gif)
+
+
+
+#### Additional Resources
+* [Easier scrollytelling with position sticky](https://pudding.cool/process/scrollytelling-sticky/)
