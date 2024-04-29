@@ -34,7 +34,8 @@ You can use the layouts in the folder as starting points and as components of yo
 ![basic large graph](assets/5.gif)
 
 #### Sticky Map Transition  ([Live](https://leoneckert.github.io/sdv-s24/layouts/sticky-map-scroll-transition))
-* like above, but each text triggers transitions in the graph
+* map transitions using [d3.zoom](https://d3js.org/d3-zoom)
+* based on [this](https://observablehq.com/@d3/map-zooming)
 
 ![basic large graph](assets/6.gif)
 
