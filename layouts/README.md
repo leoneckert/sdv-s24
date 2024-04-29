@@ -28,10 +28,15 @@ You can use the layouts in the folder as starting points and as components of yo
 
 ![basic large graph](assets/4.gif)
 
-#### Sticky Graph  ([Live](https://leoneckert.github.io/sdv-s24/layouts/sticky-graph-scroll-transition))
+#### Sticky Graph Transition  ([Live](https://leoneckert.github.io/sdv-s24/layouts/sticky-graph-scroll-transition))
 * like above, but each text triggers transitions in the graph
 
 ![basic large graph](assets/5.gif)
+
+#### Sticky Map Transition  ([Live](https://leoneckert.github.io/sdv-s24/layouts/sticky-map-scroll-transition))
+* like above, but each text triggers transitions in the graph
+
+![basic large graph](assets/6.gif)
 
 
 
