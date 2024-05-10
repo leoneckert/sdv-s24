@@ -35,7 +35,6 @@ function ticked() {
   datapoints.attr("cx", d => d.x)
             .attr("cy", d => d.y)
 
-
 }
 
 function gotData(incomingData){
